@@ -1,0 +1,5 @@
+[
+  {"tenant_id":"campus-a","id":"alum-001","name":"Avery Example","graduation_year":2018,"employer":"Example Energy","title":"Analyst","skills":["climate risk"],"contact_email":"avery@example.invalid"},
+  {"tenant_id":"campus-a","id":"alum-002","name":"Morgan Example","graduation_year":2020,"employer":"Example Labs","title":"Engineer","skills":["data engineering"],"contact_email":"morgan@example.invalid"},
+  {"tenant_id":"campus-b","id":"alum-003","name":"Jordan Example","graduation_year":2018,"employer":"Example Energy","title":"Designer","skills":["research"],"contact_email":"jordan@example.invalid"}
+]
